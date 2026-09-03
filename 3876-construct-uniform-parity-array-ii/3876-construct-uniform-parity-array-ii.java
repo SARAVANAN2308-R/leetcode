@@ -9,9 +9,9 @@ class Solution {
                 minOdd = Math.min(minOdd, num);
             }
         }
-        if (minOdd == Integer.MAX_VALUE) {
+        if(minOdd==Integer.MAX_VALUE||minEven==Integer.MAX_VALUE|| minEven>=minOdd){
             return true;
         }
-        return minEven >= minOdd;
+        return false;
     }
 }
