@@ -3,7 +3,6 @@ class Solution {
         int five =0;
         int ten=0;
         
-        boolean isok=false;
         
         for(int i=0;i<bills.length;i++){
              if(bills[i]==5){
