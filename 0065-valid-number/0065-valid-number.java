@@ -8,9 +8,7 @@ class Solution {
             char ch=s.charAt(i);
             if(Character.isDigit(ch)){
                 digitseen=true;
-                if(eseen){
-                    digitae=true;
-                }
+               
             }else if(ch=='+' ||ch=='-'){
                    if(i!=0 && s.charAt(i-1)!='e' && s.charAt(i-1)!='E'){
                     return false;
@@ -25,11 +23,11 @@ class Solution {
                     return false;
                 }
                 eseen=true;
-                digitae=false;
+                digitseen=false;
             }else{
                 return false;
             }
         }
-        return digitseen&&digitae;
+        return digitseen;
     }
 }
