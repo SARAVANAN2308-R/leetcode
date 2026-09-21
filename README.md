@@ -34,6 +34,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/SARAVANAN2308-R/leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Stack
@@ -44,4 +45,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/SARAVANAN2308-R/leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 <!---LeetCode Topics End-->
