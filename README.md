@@ -28,11 +28,13 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/SARAVANAN2308-R/leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/SARAVANAN2308-R/leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
