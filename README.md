@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0796-rotate-string/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/SARAVANAN2308-R/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,4 +62,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/SARAVANAN2308-R/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 <!---LeetCode Topics End-->
