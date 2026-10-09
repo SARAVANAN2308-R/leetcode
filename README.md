@@ -45,6 +45,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SARAVANAN2308-R/leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/SARAVANAN2308-R/leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
@@ -70,4 +71,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/SARAVANAN2308-R/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
