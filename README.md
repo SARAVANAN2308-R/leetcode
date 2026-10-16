@@ -7,6 +7,7 @@
 | [0796-rotate-string](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0796-rotate-string/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SARAVANAN2308-R/leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [2000-reverse-prefix-of-word](https://github.com/SARAVANAN2308-R/leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/SARAVANAN2308-R/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -48,6 +49,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SARAVANAN2308-R/leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [2000-reverse-prefix-of-word](https://github.com/SARAVANAN2308-R/leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/SARAVANAN2308-R/leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -57,6 +59,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [2000-reverse-prefix-of-word](https://github.com/SARAVANAN2308-R/leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
