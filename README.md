@@ -16,6 +16,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SARAVANAN2308-R/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/SARAVANAN2308-R/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Prefix Sum
@@ -73,6 +74,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/SARAVANAN2308-R/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -93,4 +95,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0112-path-sum/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
