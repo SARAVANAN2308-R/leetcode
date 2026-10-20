@@ -16,6 +16,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0054-spiral-matrix](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SARAVANAN2308-R/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/SARAVANAN2308-R/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -59,11 +60,13 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/SARAVANAN2308-R/leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SARAVANAN2308-R/leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Bracket Sequences
