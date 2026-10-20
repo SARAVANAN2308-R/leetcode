@@ -4,6 +4,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0168-excel-sheet-column-title](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0796-rotate-string](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0796-rotate-string/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SARAVANAN2308-R/leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
@@ -27,6 +28,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0168-excel-sheet-column-title](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0231-power-of-two](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SARAVANAN2308-R/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Bit Manipulation
