@@ -19,6 +19,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0054-spiral-matrix](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SARAVANAN2308-R/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/SARAVANAN2308-R/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Prefix Sum
@@ -104,4 +105,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0054-spiral-matrix/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
