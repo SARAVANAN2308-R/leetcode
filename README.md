@@ -48,11 +48,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/SARAVANAN2308-R/leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SARAVANAN2308-R/leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
@@ -89,16 +91,19 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0112-path-sum/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0112-path-sum/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0112-path-sum/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
