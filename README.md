@@ -17,6 +17,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0054-spiral-matrix](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -111,4 +112,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 <!---LeetCode Topics End-->
