@@ -22,6 +22,7 @@
 | [0054-spiral-matrix](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0135-candy](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0135-candy/) | Hard |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/SARAVANAN2308-R/leetcode/tree/main/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SARAVANAN2308-R/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/SARAVANAN2308-R/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Prefix Sum
@@ -60,10 +61,12 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SARAVANAN2308-R/leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/SARAVANAN2308-R/leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/SARAVANAN2308-R/leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/SARAVANAN2308-R/leetcode/tree/main/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/SARAVANAN2308-R/leetcode/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/SARAVANAN2308-R/leetcode/tree/main/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,6 +80,7 @@
 | [0135-candy](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0135-candy/) | Hard |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SARAVANAN2308-R/leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/SARAVANAN2308-R/leetcode/tree/main/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,4 +129,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/SARAVANAN2308-R/leetcode/tree/main/3542-minimum-operations-to-convert-all-elements-to-zero/) | Medium |
 <!---LeetCode Topics End-->
