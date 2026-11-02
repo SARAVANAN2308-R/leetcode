@@ -1,14 +1,21 @@
-bool validate(struct TreeNode* root, long long min, long long max) {
-    if (root == NULL) {
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     struct TreeNode *left;
+ *     struct TreeNode *right;
+ * };
+ */
+bool valid(struct TreeNode* root,long long min,long long max){
+    if(root==NULL){
         return true;
     }
-    if (root->val <= min || root->val >= max) {
+    if(root->val<=min || root->val >=max){
         return false;
     }
-    return validate(root->left, min, root->val) &&
-           validate(root->right, root->val, max);
+    return valid(root->left,min,root->val)&&
+    valid(root->right,root->val,max);
 }
-
 bool isValidBST(struct TreeNode* root) {
-    return validate(root, LLONG_MIN, LLONG_MAX);
+    return valid(root,LLONG_MIN,LLONG_MAX);
 }
