@@ -48,6 +48,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
@@ -71,6 +72,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0061-rotate-list](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/SARAVANAN2308-R/leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Greedy
