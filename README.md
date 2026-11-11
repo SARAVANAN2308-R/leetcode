@@ -35,6 +35,7 @@
 | ------- | ------- |
 | [0168-excel-sheet-column-title](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0231-power-of-two](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0231-power-of-two/) | Easy |
+| [0458-poor-pigs](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0458-poor-pigs/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SARAVANAN2308-R/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -127,6 +128,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0458-poor-pigs](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0458-poor-pigs/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,4 +145,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0458-poor-pigs](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0458-poor-pigs/) | Hard |
 <!---LeetCode Topics End-->
