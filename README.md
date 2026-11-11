@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0168-excel-sheet-column-title](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0482-license-key-formatting](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0482-license-key-formatting/) | Easy |
 | [0796-rotate-string](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0796-rotate-string/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SARAVANAN2308-R/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SARAVANAN2308-R/leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
